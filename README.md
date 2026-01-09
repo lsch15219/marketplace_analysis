@@ -22,7 +22,7 @@ Focus on user behavior, revenue, acquisition channels, unit economics, and AB te
 
 - Campaign_costs: marketing budget by channel and month
 
-Period: Jan 1 — Dec 31, 2024
+Period: Jan 1 - Dec 31, 2024
 
 ### 🛠️ Analysis Steps
 
