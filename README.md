@@ -1,10 +1,10 @@
-## 📊Marketplace Analysis
+## Marketplace Analysis
 
 Analytical study of a marketplace’s key metrics for 2024.
 
 Focus on user behavior, revenue, acquisition channels, unit economics, and AB testing results.
 
-### 🎯 Objective
+### Objective
 
 - Identify potential issues, warning signals, and growth opportunities
 
@@ -12,7 +12,7 @@ Focus on user behavior, revenue, acquisition channels, unit economics, and AB te
 
 - Evaluate marketing effectiveness and AB test results
 
-### 📂 Data
+### Data
 
 - Users: registration, demographics, region, acquisition channel, buyer segment
 
@@ -24,7 +24,7 @@ Focus on user behavior, revenue, acquisition channels, unit economics, and AB te
 
 Period: Jan 1 - Dec 31, 2024
 
-### 🛠️ Analysis Steps
+###  Analysis Steps
 
 - Metrics overview (DAU/MAU, Stickiness, Retention, Conversion)
 
@@ -34,7 +34,7 @@ Period: Jan 1 - Dec 31, 2024
 
 - AB test analysis              
 
-### 📈 Key Insights
+###  Key Insights
 
 - Decline in Stickiness and purchase conversion from April 2024
 
@@ -44,7 +44,7 @@ Period: Jan 1 - Dec 31, 2024
 
 - AB test: first-purchase bonus increased conversion 1% → 7.5% and 10x ARPU
 
-### 🚀 Tools & Technologies
+###  Tools & Technologies
 
 - Python: pandas, matplotlib, seaborn, statsmodels
 
